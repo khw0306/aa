@@ -13,7 +13,7 @@ public class CategoryVo {
 
     @Schema(nullable = false, example = "steve")
     @NotNull
-    private String categoryName;
+    private String categoryName;aaaa
 
     @Schema(nullable = true, example = "1")
     private Long parentId;
